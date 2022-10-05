@@ -1,0 +1,100 @@
+body {
+  background-color: black;
+}
+.cal {
+  padding: 40%;
+  padding-top: 10%;
+  position: absolute;
+}
+.logo {
+  color: aliceblue;
+  display: flex;
+}
+.name {
+}
+.pbtn {
+  width: 50px;
+  height: 50px;
+  color: rgb(172, 10, 37);
+  background-color: aqua;
+  font-size: large;
+}
+.pbtn:hover {
+  background-color: plum;
+  color: orange;
+}
+
+.mbtn {
+  width: 50px;
+  height: 50px;
+  color: rgb(172, 10, 37);
+  background-color: aqua;
+  font-size: large;
+}
+.mbtn:hover {
+  background-color: plum;
+  color: orange;
+}
+
+.abtn {
+  width: 50px;
+  height: 50px;
+  color: rgb(172, 10, 37);
+  background-color: aqua;
+  font-size: large;
+}
+.abtn:hover {
+  background-color: plum;
+  color: orange;
+}
+
+.sbtn {
+  width: 50px;
+  height: 50px;
+  color: rgb(172, 10, 37);
+  background-color: aqua;
+  font-size: large;
+}
+.sbtn:hover {
+  background-color: plum;
+  color: orange;
+}
+
+.tbtn {
+  width: 50px;
+  height: 50px;
+  color: rgb(172, 10, 37);
+  background-color: aqua;
+  font-size: x-large;
+}
+.btn:hover {
+  background-color: plum;
+  color: orange;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  color: rgb(25, 10, 110);
+  background-color: rgb(240, 229, 171);
+  font-size: large;
+  border-radius: 15px;
+}
+button:hover {
+  background-color: coral;
+}
+
+.dbtn {
+  width: 101px;
+  background-color: red;
+  color: white;
+  font-size: large;
+}
+#outputscreen {
+  height: 40px;
+  width: 205px;
+}
+.equal {
+  width: 102px;
+  font-size: large;
+}
